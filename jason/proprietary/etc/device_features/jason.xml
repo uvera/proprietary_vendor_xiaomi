@@ -221,7 +221,7 @@
     <!--whether front sensor support remosic-->
     <bool name="is_front_remosic_sensor">true</bool>
     <!--max cpu freq of the device-->
-    <integer name="cpu_max_freq">235</integer>
+    <integer name="cpu_max_freq">220</integer>
     <!--Successful flag of camera continuous auto focus  result-->
     <integer name="camera_focus_success_flag">2</integer>
     <!--total steps number of camera compensation-->
